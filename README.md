@@ -1,4 +1,7 @@
-# ML-Projects
+<p align="center">
+  <img width="500" height="189" src="https://github.com/Tejasvani8/ML-Projects/blob/master/ml.png">
+</p>
+
 
 This Repository contains Machine learning projects that i did so far .
 
